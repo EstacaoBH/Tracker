@@ -1,0 +1,13 @@
+.contents-2mQqc9 > img[src*="407623761156898826"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Kyurin */
+.contents-2mQqc9 > img[src*="463403284850278411"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Nick */
+.contents-2mQqc9 > img[src*="571978948557144064"] ~ .header-23xsNx > span.username-1A8OIy:after, /* ogtheerz */
+.contents-2mQqc9 > img[src*="399777839920185345"] ~ .header-23xsNx > span.username-1A8OIy:after, /* ogthemch */
+.contents-2mQqc9 > img[src*="476109914645856266"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Seytole */
+.contents-2mQqc9 > img[src*="599791769613500417"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Walker */
+.contents-2mQqc9 > img[src*="451789140745388033"] ~ .header-23xsNx > span.username-1A8OIy:after /* Vulgo Xamps */
+{
+  content: ' eBH Banned ';
+  border: 1px solid;
+  border-radius: 6px;
+  font-size: 10px;
+}
