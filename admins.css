@@ -1,27 +1,13 @@
-/* Tomi */
-img[src*="154084427436130304"] + .username-1A8OIy::after,
-.contents-2mQqc9 > img[src*="154084427436130304"] ~ .header-23xsNx > span.username-1A8OIy:after
-{
-    content: ' eBH Admin ';
-}
-
-/* Macaw */
-img[src*="247204871416184832"] + .username-1A8OIy::after,
-.contents-2mQqc9 > img[src*="247204871416184832"] ~ .header-23xsNx > span.username-1A8OIy:after
-{
-    content: ' eBH Admin ';
-}
-
-/* Sanchinhu */
-img[src*="309551091501236225"] + .username-1A8OIy::after,
-.contents-2mQqc9 > img[src*="309551091501236225"] ~ .header-23xsNx > span.username-1A8OIy:after
-{
-    content: ' eBH Admin ';
-}
-
-/* Johnny */
-img[src*="187004333747863552"] + .username-1A8OIy::after,
+.contents-2mQqc9 > img[src*="309551091501236225"] ~ .header-23xsNx > span.username-1A8OIy:after,
+.contents-2mQqc9 > img[src*="154084427436130304"] ~ .header-23xsNx > span.username-1A8OIy:after,
+.contents-2mQqc9 > img[src*="247204871416184832"] ~ .header-23xsNx > span.username-1A8OIy:after,
 .contents-2mQqc9 > img[src*="187004333747863552"] ~ .header-23xsNx > span.username-1A8OIy:after
 {
-    content: ' eBH Admin ';
+  content: ' eBH Admin ';
+  border: 1px solid;
+  border-radius: 6px;
+  margin-left: 8px;
+  color: #cc0000;
+  text-shadow: 0px 0px 2px #ff6666, 0px 0px 4px;
+  font-size: 10px;
 }
