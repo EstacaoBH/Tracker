@@ -1,6 +1,6 @@
 .contents-2mQqc9 > img[src*="267944043722440704"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Alecs */
 .contents-2mQqc9 > img[src*="318956448434356224"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Geo */
-.contents-2mQqc9 > img[src*="272879638336897024"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Juangana */
+.contents-2mQqc9 > img[src*="272879638336897024"] ~ .header-23xsNx > span.username-1A8OIy:after /* Juangana */
 {
   content: ' Argentine League ';
   border: 1px solid;
@@ -13,7 +13,7 @@
 
 .contents-2mQqc9 > img[src*="167414293325807617"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Paka */
 .contents-2mQqc9 > img[src*="151836980001505280"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Nevest */
-.contents-2mQqc9 > img[src*="150280889786564608"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Enrico */
+.contents-2mQqc9 > img[src*="150280889786564608"] ~ .header-23xsNx > span.username-1A8OIy:after /* Enrico */
 {
   content: ' BrawlXP ';
   border: 1px solid;
@@ -25,7 +25,7 @@
 }
 
 .contents-2mQqc9 > img[src*="438563600135880704"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Missing */
-.contents-2mQqc9 > img[src*="214946188108103680"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Sayan */
+.contents-2mQqc9 > img[src*="214946188108103680"] ~ .header-23xsNx > span.username-1A8OIy:after /* Sayan */
 {
   content: ' Yggdrasil ';
   border: 1px solid;
@@ -38,7 +38,7 @@
 
 .contents-2mQqc9 > img[src*="164887240399388672"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Lynx */
 .contents-2mQqc9 > img[src*="233372554058792970"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Cage */
-.contents-2mQqc9 > img[src*="267071462328762368"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Montanha */
+.contents-2mQqc9 > img[src*="267071462328762368"] ~ .header-23xsNx > span.username-1A8OIy:after /* Montanha */
 {
   content: ' BH Brasil ';
   border: 1px solid;
@@ -49,7 +49,7 @@
   font-size: 10px;
 }
 
-.contents-2mQqc9 > img[src*="535790152384249857"] ~ .header-23xsNx > span.username-1A8OIy:after, /* Livia Dias */
+.contents-2mQqc9 > img[src*="535790152384249857"] ~ .header-23xsNx > span.username-1A8OIy:after /* Livia Dias */
 {
   content: ' No Ping ';
   border: 1px solid;
